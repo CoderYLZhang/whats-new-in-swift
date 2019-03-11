@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='countElements() is now count()'/>
+        <page name='macOS apps can now use @NSApplicationMain'/>
+        <page name='The zip() function joins two sequences'/>
+        <page name='The flatMap() method transforms optionals and arrays'/>
+        <page name='Closures can now be marked @noescape'/>
+        <page name='Classes can now have static methods and properties'/>
+        <page name='Constants no longer require immediate initialization'/>
+        <page name='A new Set data structure'/>
+        <page name='Implicit bridging has been reduced'/>
+        <page name='Multiple if let bindings'/>
+        <page name='Typecasting now includes as!'/>
+    </pages>
+</playground>
