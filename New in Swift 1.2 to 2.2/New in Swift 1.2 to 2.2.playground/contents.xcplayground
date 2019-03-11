@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='Throwing errors'/>
+        <page name='Use the guard keyword for early returns'/>
+        <page name='Measuring strings has changed again.'/>
+        <page name='Use the defer keyword to delay work until your scope exits'/>
+        <page name='Mutability warnings'/>
+        <page name='Checking API availability'/>
+        <page name='String interpolation can now include string literals'/>
+        <page name='++ and -- are deprecated'/>
+        <page name='Traditional C-style for loops are deprecated'/>
+        <page name='Comparing tuples'/>
+        <page name='Tuple splat syntax is deprecated'/>
+        <page name='More keywords can be used as argument labels'/>
+        <page name='Variable parameters have been deprecated'/>
+        <page name='Renamed debug identifiers line, function, file'/>
+        <page name='Stringified selectors are deprecated'/>
+        <page name='Compile-time Swift version checking'/>
+    </pages>
+</playground>
