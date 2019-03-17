@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='Swifty encoding and decoding'/>
+        <page name='Multi-line string literals'/>
+        <page name='Improved keypaths for key-value coding'/>
+        <page name='Improved dictionary functionality'/>
+        <page name='Strings are collections again'/>
+        <page name='One-sided ranges'/>
+        <page name='Synthesized Equatable and Hashable'/>
+        <page name='Key decoding strategy for Codable'/>
+        <page name='Conditional conformances'/>
+        <page name='Recursive constraints on associated types'/>
+        <page name='Build configuration import testing'/>
+        <page name='Target environment testing'/>
+        <page name='flatMap is now (partly) compactMap()'/>
+        <page name='Derived collections of enum cases'/>
+        <page name='Warning and error diagnostic directives'/>
+        <page name='Dynamic member look up'/>
+        <page name='Enhanced conditional conformances'/>
+        <page name='Random number generation and shuffling'/>
+        <page name='Simpler, more secure hashing'/>
+        <page name='Checking sequence elements match a condition'/>
+        <page name='In-place collection element removal'/>
+        <page name='Boolean toggling'/>
+    </pages>
+</playground>
