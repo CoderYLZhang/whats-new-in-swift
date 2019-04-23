@@ -10,7 +10,7 @@
 
 - [x] [New in Swift 2.2 to 3.1]()
 
-- [ ] [New in Swift 3.1 to 4.2]()
+- [x] [New in Swift 3.1 to 4.2]()
 
-- [ ] [New in Swift 4.2 to 5.0]()
+- [x] [New in Swift 4.2 to 5.0]()
 
